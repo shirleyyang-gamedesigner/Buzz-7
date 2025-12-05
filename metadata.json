@@ -1,0 +1,5 @@
+{
+  "name": "Buzz 7: 逢七过 Challenge",
+  "description": "A fast-paced 'FizzBuzz' style counting game where players must avoid numbers divisible by 7 or containing the digit 7. Features an AI opponent and dynamic commentary powered by Gemini.",
+  "requestFramePermissions": []
+}
